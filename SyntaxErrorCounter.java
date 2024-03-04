@@ -3,7 +3,7 @@ package MCALab;
 import javax.tools.*;
 import java.io.IOException;
 
-public class CountSyntaxErrors {
+public class SyntaxErrorCounter {
     public static void main(String[] args) {
         if(args.length!=1){
             System.out.println("Use : java CountSyntaxError fileName.java");
