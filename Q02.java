@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class Q2 {
+public class Q02 {
     public static void main(String[] args) {
         File f=new File("C:\\Users\\reala\\MyJava\\Saud2.java");
         try {
