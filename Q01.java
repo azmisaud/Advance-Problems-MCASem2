@@ -63,7 +63,7 @@ class DataProcessor{
         }
     }
 }
-public class Q1 {
+public class Q01 {
     public static void main(String[] args) {
         String inputFilePath = "Test.txt";
         String outputFilePath = "Average.txt";
